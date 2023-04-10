@@ -1,0 +1,6 @@
+{
+  "require": {
+    "nlp-tools/nlp-tools": "1.0.*@dev",
+    "rubix/ml": "^2.3"
+  }
+}
