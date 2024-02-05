@@ -1,5 +1,4 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://github.com/ramonjd
 Tags: comments, spam
 Requires at least: 3.0.1
